@@ -2,6 +2,10 @@
 
 # Getting Started with CycLinks
 
+Share your links with the world using Create React App, TailwindCSS and Cyclic.sh. 
+
+---
+
 Install Dependencies
 
 ### ```npm install```
