@@ -1,0 +1,27 @@
+[
+    {
+      "title": "My Portfolio",
+      "url": "https://rachelschipull.com/",
+      "emoji": "😎"
+    }, 
+    {
+      "title": "Tech Paths",
+      "url": "https://techpaths.cyclic.app/",
+      "emoji": "🔥"
+    }, 
+    {
+      "title": "Hashnode Blog",
+      "url": "https://schipthatcode.hashnode.dev/",
+      "emoji": "✍🏻"
+    }, 
+    {
+      "title": "Follow Me on Twitch",
+      "url": "https://www.twitch.tv/schipthatcode",
+      "emoji": "🥔"
+    }, 
+    {
+      "title": "Polywork with Me",
+      "url": "https://poly.me/rlschip",
+      "emoji": "🤝🏻"
+    }
+  ]
