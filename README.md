@@ -10,16 +10,25 @@ Install Dependencies
 
 ### ```npm install```
 
+---
+
 Configure TailwindCSS
 
 ### ```npx tailwindcss init```
 We recommend following the Tailwind Docs for further instructions. [Tailwind with Create React App](https://tailwindcss.com/docs/guides/create-react-app)
 
+---
+
 Customize it!
+
 Add your links to the Cyclinks.json file and include your profile pic in the src folder. Feel free to add custom css to your heart's content.
 
 To test in dev use:
 ### ```npm run dev```
+
+---
+
+Deploy it!
 
 To deploy on Cyclic, login to Cyclic and link your repo, or use this button.
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
