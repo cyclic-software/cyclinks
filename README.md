@@ -31,7 +31,7 @@ To test in dev use: ```npm run dev```
 ### Deploy it!
 
 To deploy on Cyclic, login to Cyclic and link your repo, or use this button.
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+[![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/)
 
 
 ---
