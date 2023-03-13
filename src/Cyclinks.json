@@ -1,27 +1,27 @@
 [
     {
       "title": "My Portfolio",
-      "url": "https://rachelschipull.com/",
+      "url": "https://www.cyclic.sh/",
       "emoji": "😎"
     }, 
     {
-      "title": "Tech Paths",
-      "url": "https://techpaths.cyclic.app/",
+      "title": "My Github",
+      "url": "https://github.com/cyclic-software",
       "emoji": "🔥"
     }, 
     {
-      "title": "Hashnode Blog",
-      "url": "https://schipthatcode.hashnode.dev/",
+      "title": "My Blog",
+      "url": "https://www.cyclic.sh/blog",
       "emoji": "✍🏻"
     }, 
     {
       "title": "Follow Me on Twitch",
-      "url": "https://www.twitch.tv/schipthatcode",
+      "url": "https://www.twitch.tv/",
       "emoji": "🥔"
     }, 
     {
       "title": "Polywork with Me",
-      "url": "https://poly.me/rlschip",
+      "url": "https://www.polywork.com/",
       "emoji": "🤝🏻"
     }
   ]
